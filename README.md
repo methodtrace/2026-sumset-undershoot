@@ -2,8 +2,8 @@
 
 Code and data for the paper
 
-> Prashant Chaudhary and Kapil Khandelwal, *Undershoot of h-fold sumsets: Apery spectra, similar
-> ordering and the three-distance theorem*.
+> Prashant Chaudhary and Kapil Khandelwal, *Undershoot of h-fold sumsets: Apéry spectra, similar
+> ordering and the three-distance theorem*, arXiv:2611.33046.
 
 The repository recomputes every computational statement made or relied on in the paper: the
 worked examples and stated numbers, and finite checks of the identities and inequalities on
@@ -96,4 +96,4 @@ python3 -m venv .venv && .venv/bin/pip install sympy
 ## License
 
 Code: Apache License 2.0 (`LICENSE`). Outputs and expected manifests: CC BY 4.0 (`LICENSE-data.md`).
-Please cite the release using `CITATION.cff` (doi:10.5281/zenodo.22952563).
+Please cite the release using `CITATION.cff` (doi:10.5281/zenodo.22952563; all versions: doi:10.5281/zenodo.22952562).
